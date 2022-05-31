@@ -28,7 +28,15 @@ class Player:
         
         # % of shots in each area
         self.perc_fga_2pt
+        self.perc_fga_2pt_ra
+        self.perc_fga_2pt_itp
+        self.perc_fga_2pt_mr
+        
         self.perc_fga_3pt
+        self.perc_fga_3pt_leftCorner3
+        self.perc_fga_3pt_rightCorner3
+        self.perc_fga_3pt_aboveTheBreak3
+
         
         # % of points in each area
         self.perc_pts_2pt
