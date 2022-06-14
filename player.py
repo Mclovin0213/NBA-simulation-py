@@ -1,5 +1,4 @@
 
-
 class Player:
     def __init__(self, fName, lName, pPos, jNum):
         self.first_name = fName
@@ -37,7 +36,6 @@ class Player:
         self.perc_fga_3pt_rightCorner3
         self.perc_fga_3pt_aboveTheBreak3
 
-        
         # % of points in each area
         self.perc_pts_2pt
         self.perc_pts_2pt_mr
